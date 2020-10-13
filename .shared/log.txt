@@ -1,0 +1,1889 @@
+encoding project with lv-encoder-lvproject
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+planning build
+encoding project with lv-encoder-lvproject
+encoding main with lv-encoder-lvcode
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+merging scene_main files
+encoding main with lv-encoder-lvcode
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+merging scene_main files
+shared encoded!
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+cloud login for lvndr
+now compiling...
+now compiling...
+ready
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for 
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for 
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding function with lv-encoder-lvcode
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding main with lv-encoder-lvcode
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding floor with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png
+encoding mario_b with lv-encoder-png
+encoding mario_c with lv-encoder-png
+encoding mario_d with lv-encoder-png
+encoding what with lv-encoder-png
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding bg with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding background with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding background with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding background with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding background with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready
+planning build
+updating .png encoder
+encoding project with lv-encoder-lvproject
+writing driver's constants (lvk.h)
+generating scene_main
+encoding background with lv-encoder-png -c true
+encoding main with lv-encoder-lvcode
+encoding mario_a with lv-encoder-png -c true
+encoding mario_b with lv-encoder-png -c true
+encoding mario_c with lv-encoder-png -c true
+encoding mario_d with lv-encoder-png -c true
+encoding what with lv-encoder-png -c true
+merging scene_main files
+scene_main encoded!
+encoding shared content
+encoding main with lv-encoder-lvcode
+shared encoded!
+cloud login for lvndr-416
+now compiling...
+ready

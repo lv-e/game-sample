@@ -1,0 +1,26 @@
+{
+    "header":{
+        "content_type": "lvcode",
+        "flavor": "scene",
+        "version": "1.0.0"
+    },
+    "body":{
+        "declarations":{
+            "code": [
+                
+            ]
+        },
+    
+        "on_enter":{
+            "code": [
+                
+            ]
+        },
+    
+        "on_frame":{
+            "code": [
+                
+            ]
+        }
+    }
+}

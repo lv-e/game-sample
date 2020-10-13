@@ -1,0 +1,346 @@
+{
+ "scenes": [
+  {
+   "files": [
+    {
+     "path": "/lv/project/scene_main/background.png",
+     "name": "background",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_main/main.lvcode",
+     "name": "main",
+     "extension": ".lvcode"
+    },
+    {
+     "path": "/lv/project/scene_main/mario_a.png",
+     "name": "mario_a",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_main/mario_b.png",
+     "name": "mario_b",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_main/mario_c.png",
+     "name": "mario_c",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_main/mario_d.png",
+     "name": "mario_d",
+     "extension": ".png"
+    },
+    {
+     "path": "/lv/project/scene_main/what.png",
+     "name": "what",
+     "extension": ".png"
+    }
+   ],
+   "path": "/lv/project/scene_main",
+   "name": "scene_main",
+   "directories": []
+  }
+ ],
+ "shared": [
+  {
+   "files": [
+    {
+     "path": "/lv/project/shared/main.lvcode",
+     "name": "main",
+     "extension": ".lvcode"
+    }
+   ],
+   "path": "/lv/project/shared",
+   "name": "shared",
+   "directories": []
+  }
+ ],
+ "unused": [
+  {
+   "files": [
+    {
+     "path": "/lv/project/.bin/game",
+     "name": "game",
+     "extension": ""
+    }
+   ],
+   "path": "/lv/project/.bin",
+   "name": ".bin",
+   "directories": []
+  },
+  {
+   "files": [
+    {
+     "path": "/lv/project/.git/HEAD",
+     "name": "HEAD",
+     "extension": ""
+    },
+    {
+     "path": "/lv/project/.git/config",
+     "name": "config",
+     "extension": ""
+    },
+    {
+     "path": "/lv/project/.git/description",
+     "name": "description",
+     "extension": ""
+    },
+    {
+     "path": "/lv/project/.git/index",
+     "name": "index",
+     "extension": ""
+    },
+    {
+     "path": "/lv/project/.git/packed-refs",
+     "name": "packed-refs",
+     "extension": ""
+    }
+   ],
+   "path": "/lv/project/.git",
+   "name": ".git",
+   "directories": [
+    {
+     "files": [
+      {
+       "path": "/lv/project/.git/hooks/applypatch-msg.sample",
+       "name": "applypatch-msg",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/commit-msg.sample",
+       "name": "commit-msg",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/fsmonitor-watchman.sample",
+       "name": "fsmonitor-watchman",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/post-update.sample",
+       "name": "post-update",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/pre-applypatch.sample",
+       "name": "pre-applypatch",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/pre-commit.sample",
+       "name": "pre-commit",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/pre-merge-commit.sample",
+       "name": "pre-merge-commit",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/pre-push.sample",
+       "name": "pre-push",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/pre-rebase.sample",
+       "name": "pre-rebase",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/pre-receive.sample",
+       "name": "pre-receive",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/prepare-commit-msg.sample",
+       "name": "prepare-commit-msg",
+       "extension": ".sample"
+      },
+      {
+       "path": "/lv/project/.git/hooks/update.sample",
+       "name": "update",
+       "extension": ".sample"
+      }
+     ],
+     "path": "/lv/project/.git/hooks",
+     "name": "hooks",
+     "directories": []
+    },
+    {
+     "files": [
+      {
+       "path": "/lv/project/.git/info/exclude",
+       "name": "exclude",
+       "extension": ""
+      }
+     ],
+     "path": "/lv/project/.git/info",
+     "name": "info",
+     "directories": []
+    },
+    {
+     "files": [
+      {
+       "path": "/lv/project/.git/logs/HEAD",
+       "name": "HEAD",
+       "extension": ""
+      }
+     ],
+     "path": "/lv/project/.git/logs",
+     "name": "logs",
+     "directories": [
+      {
+       "files": [],
+       "path": "/lv/project/.git/logs/refs",
+       "name": "refs",
+       "directories": [
+        {
+         "files": [
+          {
+           "path": "/lv/project/.git/logs/refs/heads/master",
+           "name": "master",
+           "extension": ""
+          }
+         ],
+         "path": "/lv/project/.git/logs/refs/heads",
+         "name": "heads",
+         "directories": []
+        },
+        {
+         "files": [],
+         "path": "/lv/project/.git/logs/refs/remotes",
+         "name": "remotes",
+         "directories": [
+          {
+           "files": [
+            {
+             "path": "/lv/project/.git/logs/refs/remotes/origin/HEAD",
+             "name": "HEAD",
+             "extension": ""
+            }
+           ],
+           "path": "/lv/project/.git/logs/refs/remotes/origin",
+           "name": "origin",
+           "directories": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "files": [],
+     "path": "/lv/project/.git/objects",
+     "name": "objects",
+     "directories": [
+      {
+       "files": [],
+       "path": "/lv/project/.git/objects/info",
+       "name": "info",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/pack/pack-ce272a330ee481cbe617c97bd2103182c4f54a5c.idx",
+         "name": "pack-ce272a330ee481cbe617c97bd2103182c4f54a5c",
+         "extension": ".idx"
+        },
+        {
+         "path": "/lv/project/.git/objects/pack/pack-ce272a330ee481cbe617c97bd2103182c4f54a5c.pack",
+         "name": "pack-ce272a330ee481cbe617c97bd2103182c4f54a5c",
+         "extension": ".pack"
+        }
+       ],
+       "path": "/lv/project/.git/objects/pack",
+       "name": "pack",
+       "directories": []
+      }
+     ]
+    },
+    {
+     "files": [],
+     "path": "/lv/project/.git/refs",
+     "name": "refs",
+     "directories": [
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/refs/heads/master",
+         "name": "master",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/refs/heads",
+       "name": "heads",
+       "directories": []
+      },
+      {
+       "files": [],
+       "path": "/lv/project/.git/refs/remotes",
+       "name": "remotes",
+       "directories": [
+        {
+         "files": [
+          {
+           "path": "/lv/project/.git/refs/remotes/origin/HEAD",
+           "name": "HEAD",
+           "extension": ""
+          }
+         ],
+         "path": "/lv/project/.git/refs/remotes/origin",
+         "name": "origin",
+         "directories": []
+        }
+       ]
+      },
+      {
+       "files": [],
+       "path": "/lv/project/.git/refs/tags",
+       "name": "tags",
+       "directories": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "files": [
+    {
+     "path": "/lv/project/.shared/log.txt",
+     "name": "log",
+     "extension": ".txt"
+    },
+    {
+     "path": "/lv/project/.shared/project.json",
+     "name": "project",
+     "extension": ".json"
+    }
+   ],
+   "path": "/lv/project/.shared",
+   "name": ".shared",
+   "directories": []
+  },
+  {
+   "files": [
+    {
+     "path": "/lv/project/docs/bg.png",
+     "name": "bg",
+     "extension": ".png"
+    }
+   ],
+   "path": "/lv/project/docs",
+   "name": "docs",
+   "directories": []
+  }
+ ],
+ "project_file": {
+  "path": "/lv/project/game.lvproject",
+  "name": "game",
+  "extension": ".lvproject"
+ },
+ "generated_at": "2020-10-13T01:35:17.976Z"
+}

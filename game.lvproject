@@ -1,0 +1,62 @@
+{
+	"header": {
+		"version": "1.0.0",
+		"created_at": "2020-01-29T01:23:41.422Z",
+		"drivers": [
+			{
+				"current": false,
+				"name": "simulator",
+				"docker_image": "lvedock/driver_simulator",
+				"cli_command": "sh /lv/scripts/build.sh"
+			},
+			{
+				"current": true,
+				"name": "particle photon",
+				"docker_image": "lvedock/lve_particle_photon",
+				"cli_command": "sh /lv/scripts/build.sh",
+				"secrets": {
+					"user": "lv-particle-photon-username",
+					"password": "lv-particle-photon-password",
+					"device": "lv-particle-photon-device"
+				},
+				"properties": {
+					"display_width": 130,
+					"display_heigth": 130,
+					"show_fps": true
+				}
+			}
+		],
+		"encoders": [
+			{
+				"extension": ".lvcode",
+				"npm_module": "@lv-game-editor/encoder-lvcode@\"<2.0.0\"",
+				"auto_update": false,
+				"cli_command": "lv-encoder-lvcode"
+			},
+			{
+				"extension": ".lvproject",
+				"npm_module": "@lv-game-editor/encoder-lvproject@\"<2.0.0\"",
+				"auto_update": false,
+				"cli_command": "lv-encoder-lvproject"
+			},
+			{
+				"extension": ".png",
+				"npm_module": "@lv-game-editor/encoder-png@\"<2.0.0\"",
+				"auto_update": true,
+				"cli_command": "lv-encoder-png -c true"
+			}
+		]
+	},
+	"state": {
+		"last_opened_file": "./scene_main/main.lvcode"
+	},
+	"editor": {
+		"openedFiles": [
+			"/lv/project/scene_main/mario",
+			"/lv/project/scene_main",
+			"/lv/project/scene_battle/bgs",
+			"/lv/project/scene_main"
+		],
+		"selectedFile": "/lv/project/scene_main/mario_a.png"
+	}
+}

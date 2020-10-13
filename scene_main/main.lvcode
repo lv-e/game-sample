@@ -1,0 +1,43 @@
+{
+    "header":{
+        "content_type": "lvcode",
+        "flavor": "scene",
+        "version": "1.0.0"
+    },
+    "body":{
+        "declarations":{
+            "code": [
+                "int frame;"
+            ]
+        },
+    
+        "on_enter":{
+            "code": [
+                "frame = 10;        "
+            ]
+        },
+    
+        "on_frame":{
+            "code": [
+
+                "lvDisplay.clear(0);",
+
+                "PNG::background->draw(0, 0);",
+
+                "PNG::what->draw(80, 30);",
+                "PNG::what->draw(80+23, 30);",
+
+                "PNG::what->draw(38,    97);",
+                "PNG::what->draw(38+23, 97);",
+
+                "switch((frame/3)%4){",
+                "    case 0: PNG::mario_a->draw(130 - frame%130,72); break;",
+                "    case 1: PNG::mario_b->draw(130 - frame%130,72); break;",
+                "    case 2: PNG::mario_c->draw(130 - frame%130,72); break;",
+                "    case 3: PNG::mario_d->draw(130 - frame%130,72); break;",
+                "};",
+                "frame++;"
+            ]
+        }
+    }
+}
