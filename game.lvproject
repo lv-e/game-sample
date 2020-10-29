@@ -22,7 +22,7 @@
 				"properties": {
 					"display_width": 130,
 					"display_heigth": 130,
-					"show_fps": true
+					"debug_mode": true
 				}
 			}
 		],
@@ -42,7 +42,7 @@
 			{
 				"extension": ".png",
 				"npm_module": "@lv-game-editor/encoder-png@\"<2.0.0\"",
-				"auto_update": true,
+				"auto_update": false,
 				"cli_command": "lv-encoder-png -c true"
 			}
 		]
@@ -53,8 +53,8 @@
 	"editor": {
 		"openedFiles": [
 			"/lv/project/scene_main/mario",
-			"/lv/project/scene_main",
 			"/lv/project/scene_battle/bgs",
+			"/lv/project/shared",
 			"/lv/project/scene_main"
 		],
 		"selectedFile": "/lv/project/scene_main/mario_a.png"

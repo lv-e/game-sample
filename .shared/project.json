@@ -59,19 +59,23 @@
  ],
  "unused": [
   {
-   "files": [
-    {
-     "path": "/lv/project/.bin/game",
-     "name": "game",
-     "extension": ""
-    }
-   ],
+   "files": [],
    "path": "/lv/project/.bin",
    "name": ".bin",
    "directories": []
   },
   {
    "files": [
+    {
+     "path": "/lv/project/.git/COMMIT_EDITMSG",
+     "name": "COMMIT_EDITMSG",
+     "extension": ""
+    },
+    {
+     "path": "/lv/project/.git/FETCH_HEAD",
+     "name": "FETCH_HEAD",
+     "extension": ""
+    },
     {
      "path": "/lv/project/.git/HEAD",
      "name": "HEAD",
@@ -95,6 +99,11 @@
     {
      "path": "/lv/project/.git/packed-refs",
      "name": "packed-refs",
+     "extension": ""
+    },
+    {
+     "path": "/lv/project/.git/sourcetreeconfig",
+     "name": "sourcetreeconfig",
      "extension": ""
     }
    ],
@@ -219,6 +228,11 @@
              "path": "/lv/project/.git/logs/refs/remotes/origin/HEAD",
              "name": "HEAD",
              "extension": ""
+            },
+            {
+             "path": "/lv/project/.git/logs/refs/remotes/origin/master",
+             "name": "master",
+             "extension": ""
             }
            ],
            "path": "/lv/project/.git/logs/refs/remotes/origin",
@@ -236,6 +250,258 @@
      "path": "/lv/project/.git/objects",
      "name": "objects",
      "directories": [
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/04/97cce49cce25a4852844a22fa24562dde3606e",
+         "name": "97cce49cce25a4852844a22fa24562dde3606e",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/04",
+       "name": "04",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/08/396cbd7b7851bd0213f51d6e174143701da8e2",
+         "name": "396cbd7b7851bd0213f51d6e174143701da8e2",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/08",
+       "name": "08",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/1a/544f66360ba116430d944d1459feaa2a12ac36",
+         "name": "544f66360ba116430d944d1459feaa2a12ac36",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/1a",
+       "name": "1a",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/28/73ae87f0bf3f73c2128aba547daa2c37f869bb",
+         "name": "73ae87f0bf3f73c2128aba547daa2c37f869bb",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/28",
+       "name": "28",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/2d/915b8d870b8ca6577921844b8cef58113b4bcd",
+         "name": "915b8d870b8ca6577921844b8cef58113b4bcd",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/2d",
+       "name": "2d",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/31/db798e4dfda3292d99e2e5ea878a0dc85ad66c",
+         "name": "db798e4dfda3292d99e2e5ea878a0dc85ad66c",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/31",
+       "name": "31",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/4c/30c6849ba57b1faf654729ca6d7dbbc6f72531",
+         "name": "30c6849ba57b1faf654729ca6d7dbbc6f72531",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/4c",
+       "name": "4c",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/63/5398ce6d90d0e1054d71cef8fc0c94b14ae159",
+         "name": "5398ce6d90d0e1054d71cef8fc0c94b14ae159",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/63",
+       "name": "63",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/8f/3e1c1e147157b9c635119f7701454f8723ae54",
+         "name": "3e1c1e147157b9c635119f7701454f8723ae54",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/8f",
+       "name": "8f",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/9a/9070e255e3288feba4ca02b63bb47095001cfe",
+         "name": "9070e255e3288feba4ca02b63bb47095001cfe",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/9a",
+       "name": "9a",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/a2/d404df8b94de590006bed27537d9cf139d9c60",
+         "name": "d404df8b94de590006bed27537d9cf139d9c60",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/a2",
+       "name": "a2",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/b2/5ad3273d018abe756e2191c26e4addcc5dd970",
+         "name": "5ad3273d018abe756e2191c26e4addcc5dd970",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/b2",
+       "name": "b2",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/b8/9afa7798b419e44f61df1fd598ef16c44b5d1d",
+         "name": "9afa7798b419e44f61df1fd598ef16c44b5d1d",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/b8",
+       "name": "b8",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/c9/a8342ac24b4d420e1ecb3767d6c98bdb862bb7",
+         "name": "a8342ac24b4d420e1ecb3767d6c98bdb862bb7",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/c9",
+       "name": "c9",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/db/f9517d0a2dc8841d87c6420f435cacf363fb1a",
+         "name": "f9517d0a2dc8841d87c6420f435cacf363fb1a",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/db",
+       "name": "db",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/e4/acef9996eb8f340441f6ab48ab7413a1a56317",
+         "name": "acef9996eb8f340441f6ab48ab7413a1a56317",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/e4",
+       "name": "e4",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/e5/f16643c5e231d44a0ebe2bb1aeb3b07035f23d",
+         "name": "f16643c5e231d44a0ebe2bb1aeb3b07035f23d",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/e5",
+       "name": "e5",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/e6/c45f7081108b131a0c1ab7f17f94e8848ef0ce",
+         "name": "c45f7081108b131a0c1ab7f17f94e8848ef0ce",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/e6",
+       "name": "e6",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/e8/96af35894eac26e4121bd02245e5c79becc231",
+         "name": "96af35894eac26e4121bd02245e5c79becc231",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/e8",
+       "name": "e8",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/f2/1266f102e308750e0ac8686d4f6f1f06360a74",
+         "name": "1266f102e308750e0ac8686d4f6f1f06360a74",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/f2",
+       "name": "f2",
+       "directories": []
+      },
+      {
+       "files": [
+        {
+         "path": "/lv/project/.git/objects/f8/f68a694d3cfb3accfddf634fa054e96b4b207b",
+         "name": "f68a694d3cfb3accfddf634fa054e96b4b207b",
+         "extension": ""
+        }
+       ],
+       "path": "/lv/project/.git/objects/f8",
+       "name": "f8",
+       "directories": []
+      },
       {
        "files": [],
        "path": "/lv/project/.git/objects/info",
@@ -289,6 +555,11 @@
            "path": "/lv/project/.git/refs/remotes/origin/HEAD",
            "name": "HEAD",
            "extension": ""
+          },
+          {
+           "path": "/lv/project/.git/refs/remotes/origin/master",
+           "name": "master",
+           "extension": ""
           }
          ],
          "path": "/lv/project/.git/refs/remotes/origin",
@@ -318,6 +589,11 @@
      "path": "/lv/project/.shared/project.json",
      "name": "project",
      "extension": ".json"
+    },
+    {
+     "path": "/lv/project/.shared/scene_main.cpp",
+     "name": "scene_main",
+     "extension": ".cpp"
     }
    ],
    "path": "/lv/project/.shared",
@@ -342,5 +618,5 @@
   "name": "game",
   "extension": ".lvproject"
  },
- "generated_at": "2020-10-13T01:35:17.976Z"
+ "generated_at": "2020-10-29T04:48:14.922Z"
 }

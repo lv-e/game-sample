@@ -7,13 +7,13 @@
     "body":{
         "declarations":{
             "code": [
-                "int frame;"
+                "int xframe;"
             ]
         },
     
         "on_enter":{
             "code": [
-                "frame = 10;        "
+                "xframe = 10;        "
             ]
         },
     
@@ -30,13 +30,23 @@
                 "PNG::what->draw(38,    97);",
                 "PNG::what->draw(38+23, 97);",
 
-                "switch((frame/3)%4){",
-                "    case 0: PNG::mario_a->draw(130 - frame%130,72); break;",
-                "    case 1: PNG::mario_b->draw(130 - frame%130,72); break;",
-                "    case 2: PNG::mario_c->draw(130 - frame%130,72); break;",
-                "    case 3: PNG::mario_d->draw(130 - frame%130,72); break;",
+                "switch((xframe/3)%4){",
+                "    case 0: PNG::mario_a->draw(130 - xframe%130,72); break;",
+                "    case 1: PNG::mario_b->draw(130 - xframe%130,72); break;",
+                "    case 2: PNG::mario_c->draw(130 - xframe%130,72); break;",
+                "    case 3: PNG::mario_d->draw(130 - xframe%130,72); break;",
                 "};",
-                "frame++;"
+                "xframe++;",
+
+                "if(lvGamepads.isReleased(lvGamepad(0).a))  lvDisplay.fillRect(lv::Region(10,10,10,10), 5);",
+                "if(lvGamepads.isDown(lvGamepad(0).a))  lvDisplay.fillRect(lv::Region(20,10,10,10), 9);",
+                "if(lvGamepads.isPressed(lvGamepad(0).a))  lvDisplay.fillRect(lv::Region(30,10,10,10), 19);",
+                "if(lvGamepads.isUp(lvGamepad(0).a))  lvDisplay.fillRect(lv::Region(40,10,10,10), 28);",
+            
+                "if(lvGamepads.isReleased(lvGamepad(0).b))  lvDisplay.fillRect(lv::Region(10,20,10,10), 5);",
+                "if(lvGamepads.isDown(lvGamepad(0).b))  lvDisplay.fillRect(lv::Region(20,20,10,10), 9);",
+                "if(lvGamepads.isPressed(lvGamepad(0).b))  lvDisplay.fillRect(lv::Region(30,20,10,10), 19);",
+                "if(lvGamepads.isUp(lvGamepad(0).b))  lvDisplay.fillRect(lv::Region(40,20,10,10), 28);"
             ]
         }
     }
